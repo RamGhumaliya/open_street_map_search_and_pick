@@ -139,8 +139,8 @@ class _OpenStreetMapSearchAndPickState
             ),
           )),
           Positioned(
-              top: 0,
-              right: 0,
+              bottom: 0,
+              left: 0,
               child: FloatingActionButton(
                 heroTag: 'btn3',
                 backgroundColor: widget.buttonColor,
